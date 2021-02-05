@@ -222,6 +222,7 @@ h4 {
 .event-card-in {
   display: flex;
   flex-direction: column;
+  width: -webkit-fill-available;
 }
 
 .event-img {
@@ -390,7 +391,7 @@ h4 {
   max-width: 450px;
   width: 95%;
 }
-#recover-container{
+#recover-container {
   padding: 10px;
   display: flex;
   justify-content: center;
@@ -406,8 +407,6 @@ h4 {
   margin: 0;
   background-color: white;
 }
-
-
 
 .form-control {
   background-color: #e6efff;
