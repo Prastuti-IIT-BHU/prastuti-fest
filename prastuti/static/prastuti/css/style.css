@@ -536,7 +536,7 @@ h4 {
     flex-direction: column;
   }
 
-  .card.event-card {
+  .event-card {
     width: 90%;
   }
 
